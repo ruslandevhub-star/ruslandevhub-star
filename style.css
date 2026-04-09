@@ -1,0 +1,21 @@
+</style>
+   <div class="container">
+    <div class="code-area">
+     <div class="line token-comment">&lt;!-- Men o'rganyapman --&gt;</div>
+     <div class="line line-1">&lt;<span class="token-tag">dev</span> <span class="token-attr">name</span>=<span class="token-str">"Ruslan"</span>&gt;</div>
+     <div class="line line-2">  &lt;<span class="token-tag">skill</span>&gt;HTML&lt;/<span class="token-tag">skill</span>&gt;</div>
+     <div class="line line-3">  &lt;<span class="token-tag">skill</span>&gt;CSS&lt;/<span class="token-tag">skill</span>&gt;</div>
+     <div class="line line-4">&lt;/<span class="token-tag">dev</span>&gt;</div>
+    </div>
+    <div class="visual-area">
+                    <div class="code-bg">
+                        div { display: flex; } .moshniy { animation: glitch; } color: neon;
+                        @keyframes glitch { 0% { opacity: 1; } }
+                    </div>
+     <div class="developer-icon">&lt;/&gt;</div>
+                    <div class="status-text">Ruslan is coding...<br/>CSS &amp; HTML matrix</div>
+    </div>
+   </div>
+  </div>
+ </foreignObject>
+</svg>
